@@ -1,2 +1,2 @@
 # LandingPage-Template
-A HTML/CSS-only landing page template using CSS Flexbox.
+A responsive landing page template built with HTML and CSS, utilizing CSS Flexbox.
